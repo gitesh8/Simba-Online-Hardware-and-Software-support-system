@@ -31,6 +31,8 @@
   
 </ul>
 
+<img src="https://github.com/gitesh8/frail-quince-1886/blob/main/Simba%20Online%20Hardware%20and%20Software%20support%20system/Images/img2.PNG"/>
+
 <h4>Role of Engineer</h4>
 
 <ul>
@@ -41,6 +43,8 @@
   
 </ul>
 
+<img src="https://github.com/gitesh8/frail-quince-1886/blob/main/Simba%20Online%20Hardware%20and%20Software%20support%20system/Images/img3.PNG"/>
+
 <h4>Role of Employee</h4>
 
 <ul>
@@ -50,4 +54,6 @@
   <li>Change password</li>
   
 </ul>
+
+<img src="https://github.com/gitesh8/frail-quince-1886/blob/main/Simba%20Online%20Hardware%20and%20Software%20support%20system/Images/img4.PNG"/>
 
