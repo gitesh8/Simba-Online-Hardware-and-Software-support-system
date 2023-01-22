@@ -23,7 +23,7 @@ public class Menu {
 			ChangePass.changePass(empid);
 			break;
 		case 4:
-			Main.main(null);
+			main.Main.main(null);
 		case 5:
 			System.out.println("Logged Out");
 			break;
